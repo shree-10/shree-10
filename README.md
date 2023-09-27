@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me: Developer || Passionate for coding and learning different things
-🔭 prachand , raksha <br>👯 I’m looking to collaborate <br>🤝 I’m looking for help with <br>🌱 I’m currently learning DSA with Andriod app Development<br>📫 How to reach me **shreeniwaschaudhari10@gmail.com**<br>💬 Ask me about Java<br>⚡ Fun fact I LOVE TO CODE
+🔭 prachand , raksha <br>👯 I’m looking to collaborate <br>🤝 I’m looking for help with <br>🌱 I’m currently learning DSA with Android app Development<br>📫 How to reach me **shreeniwaschaudhari10@gmail.com**<br>💬 Ask me about Java<br>⚡ Fun fact I LOVE TO CODE
 
 
 ## 🌐 Socials:
